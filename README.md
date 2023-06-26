@@ -10,7 +10,7 @@ test
 
 reffered
 
-Lower than
+Lower then
 
 [Awesome lnik](https://www.google.com) - [Another link](https://www.google.com) - [Clown link](https://www.google.com) - [Dog link](https://www.google.com)
 
